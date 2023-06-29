@@ -2,8 +2,9 @@
 - keyboard Event
 - Moust Event
 
-![Animation3](https://user-images.githubusercontent.com/127499117/235364132-5a3fce83-5a7d-4f1b-b747-3735c1c9a574.gif)
-
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/127499117/235364132-5a3fce83-5a7d-4f1b-b747-3735c1c9a574.gif" alt="Animation3">
+</p>
 
 > 이번 프로젝트를 통해 그 동안 정말 많이 실습해보았던 click, mouse이벤트가 아닌 keyboard 이벤트에 관해 배웠고, 키보드 이벤트 중 keypress가 폐지 되었고, 이벤트 속성 중 keyCode도 폐지가 되었다는 것을 알았다. 이렇게 자바스크립트는 소소하게 무언가를 계속 변경하고, 수정한다는 것을 깨달았다....! 
 
